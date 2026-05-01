@@ -48,7 +48,7 @@ h3 {
 h1 {
   margin: 0 0 26px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 4.15rem;
+  font-size: 2.5rem;
   font-weight: 600;
   letter-spacing: -0.052em;
 }
@@ -57,7 +57,7 @@ h1 span {
   display: inline-block;
   margin-left: 0.2em;
   color: var(--muted);
-  font-size: 0.34em;
+  font-size: 0.85em;
   font-weight: 400;
   letter-spacing: 0;
   vertical-align: middle;
