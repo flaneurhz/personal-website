@@ -20,7 +20,7 @@ body {
   background: var(--background);
   color: var(--text);
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 17.0px;
+  font-size: 17px;
   line-height: 1.66;
 }
 
@@ -48,8 +48,8 @@ h3 {
 h1 {
   margin: 0 0 26px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 2.5rem;
-  font-weight: 600;
+  font-size: 3rem;
+  font-weight: 400;
   letter-spacing: -0.052em;
 }
 
@@ -57,7 +57,7 @@ h1 span {
   display: inline-block;
   margin-left: 0.2em;
   color: var(--muted);
-  font-size: 0.85em;
+  font-size: 2.0rem;
   font-weight: 400;
   letter-spacing: 0;
   vertical-align: middle;
@@ -129,9 +129,9 @@ a:hover {
 
 h2 {
   margin: 0 0 30px;
-  font-size: 1.0rem;
-  font-weight: 700;
-  letter-spacing: 0.115em;
+  font-size: 1.1rem;
+  font-weight: 400;
+  letter-spacing: 0.06em;
 }
 
 .publication {
@@ -145,10 +145,10 @@ h2 {
 
 h3 {
   margin: 0 0 7px;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Cambria, Georgia "Times New Roman", Times, serif;
   font-size: 1.27rem;
-  font-weight: 600;
-  letter-spacing: -0.012em;
+  font-weight: 400;
+  letter-spacing: 0;
 }
 
 .citation {
