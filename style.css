@@ -25,7 +25,7 @@ body {
 }
 
 .page {
-  width: min(980px, calc(100% - 42px));
+  width: min(1200px, calc(100% - 42px));
   margin: 0 auto;
   padding: 70px 0 46px;
 }
